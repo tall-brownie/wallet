@@ -1,6 +1,7 @@
+import { OnRampTransactions } from "../../../components/OnRampTransactions";
 
 export default function() {
     return <div>
-        Transactions
+        <OnRampTransactions/>
     </div>
 }
